@@ -1,0 +1,5 @@
+2023/12/11-20:58:30.447 4 Creating DB /home/snigdha/.config/google-chrome/Default/Local Storage/leveldb since it was missing.
+2023/12/11-20:58:30.457 4 Reusing MANIFEST /home/snigdha/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/12/11-21:12:21.751 6 Level-0 table #5: started
+2023/12/11-21:12:21.755 6 Level-0 table #5: 36004 bytes OK
+2023/12/11-21:12:21.760 6 Delete type=0 #3
